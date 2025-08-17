@@ -1,0 +1,20 @@
+Nombre: Nina
+Especie: Perro
+Raza: Criolla
+Edad: 10 años
+Salud: Podria ser mejor
+Adopción: Sí
+Acogida: Sí
+Tamaño: Mediano
+Nivel de adiestramiento: Medio
+
+Nombre: Blu
+Especie: Ave
+Raza: Cacatua Ninfa
+Edad: 15 años
+Salud: Bien
+Adopción: Sí
+Acogida: Sí
+Puede volar: No
+Alimentación: Granivoro
+
